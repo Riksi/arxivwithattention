@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Ar5iv Enhancer",
+    "version": "1.0",
+    "description": "Enhances the Ar5iv website by adding a modal window for figures, tables, equations, etc.",
+    "permissions": [
+        "scripting"
+    ],
+    "action": {
+        "default_icon": {
+            "48": "icon.png"
+        },
+        "default_title": "Ar5iv Enhancer"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://ar5iv.labs.arxiv.org/html/*"
+            ],
+            "js": [
+                "ar5ivEnhance.js"
+            ]
+        }
+    ],
+    "icons": {
+        "48": "icon.png"
+    }
+}
