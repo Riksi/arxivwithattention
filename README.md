@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This Chrome extension enhances the reading experience on the [Ar5iv](https://ar5iv.labs.arxiv.org/) website. Ar5iv improves the reading experience of articles from [arXiv](https://arxiv.org/) by rendering them as responsive HTML5 web pages. This extension seeks to further enhance the reading experience by adding a modal window for figures, tables, equations, and other content. It allows users to view these elements in a convenient and interactive way without the need for manual scrolling or jumping around the page. It automatically runs on all pages with URLs of the form `http://ar5iv.labs.arxiv.org/html/<arXiv ID>`.
+This Chrome extension enhances the reading experience on the [Ar5iv](https://ar5iv.labs.arxiv.org/) website. Ar5iv improves the reading experience of articles from [arXiv](https://arxiv.org/) by rendering them as responsive HTML5 web pages. This extension seeks to further enhance the reading experience by adding a draggable modal window for figures, tables, equations, and other content. It allows users to view these elements in a convenient and interactive way without the need for manual scrolling or jumping around the page. It automatically runs on all pages with URLs of the form `http://ar5iv.labs.arxiv.org/html/<arXiv ID>`.
 
 ## Installation
 
