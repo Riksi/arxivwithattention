@@ -1,4 +1,4 @@
-# 5+: An Ar5iv Enhancement Chrome Extension
+# Arxiv With Attention: An Ar5iv Enhancement Chrome Extension
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
